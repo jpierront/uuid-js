@@ -1,5 +1,5 @@
 {
-  "name" : "uuid-js",
+  "name" : "uuid-js-bis",
   "description" : "A js library to generate and parse UUIDs,TimeUUIDs and generate TimeUUID based on Date for range selections",
   "version" : "0.7.5",
   "author" : "Patrick Negri <patrick@iugu.com.br>",
